@@ -1,0 +1,1 @@
+print "Music is number 1!!!"
